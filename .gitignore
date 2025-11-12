@@ -1,0 +1,14 @@
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+
+# Cache and compiled files
+__pycache__/
+*.pyc
+
+# Streamlit / Logs
+.streamlit/
+*.log
+
