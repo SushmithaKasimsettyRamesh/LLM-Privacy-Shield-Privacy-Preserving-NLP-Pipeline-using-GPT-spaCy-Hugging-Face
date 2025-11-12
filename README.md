@@ -145,9 +145,6 @@ Contributions welcome! Areas of interest:
 - Optimize performance
 - Add test coverage
 
-## License
-
-MIT
 
 ## Acknowledgments
 
